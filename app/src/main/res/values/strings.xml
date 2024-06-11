@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="dropdown_items">
+        <item>Jahir</item>
+        <item>Rifat</item>
+        <item>Kalam</item>
+        <item>Asik</item>
+        <item>Jamal</item>
+        <item>Rifa</item>
+        <item>Kamal</item>
+        <item>Asika</item>
+    </string-array>
+</resources>
